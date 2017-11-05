@@ -1,0 +1,32 @@
+<svg width="48" height="50" viewBox="0 0 48 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>video</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-11115 111)">
+<g id="video">
+<g id="Group 3">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(11115 -111)" fill="#EB5757"/>
+</g>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path1_fill" transform="translate(11124 -99)" fill="#FFFFFF"/>
+</g>
+<g id="Play">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(11135 -92.9998)"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(11124 -99)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 24C 0 10.7452 10.7452 0 24 0C 37.2548 0 48 10.7452 48 24L 48 26C 48 39.2548 37.2548 50 24 50C 10.7452 50 0 39.2548 0 26L 0 24Z"/>
+<path id="path1_fill" d="M 0 7C 0 3.13401 3.13401 0 7 0L 23 0C 26.866 0 30 3.13401 30 7L 30 18C 30 21.866 26.866 25 23 25L 7 25C 3.13401 25 0 21.866 0 18L 0 7Z"/>
+<path id="path2_fill" d="M 0.778 0.0838195C 0.622 -0.0181805 0.427 -0.0281797 0.264 0.0598203C 0.102 0.14582 0 0.31482 0 0.49982L 0 12.4998C 0 12.6838 0.102 12.8528 0.264 12.9398C 0.338 12.9798 0.419 12.9998 0.5 12.9998C 0.597 12.9998 0.693 12.9718 0.778 12.9158L 9.778 6.91582C 9.917 6.82282 10.001 6.66682 10.001 6.49982C 10.001 6.33282 9.917 6.17682 9.778 6.08382L 0.778 0.0838195ZM 1 11.5658L 1 1.43482L 8.599 6.50082L 1 11.5658Z"/>
+<path id="path3_fill" d="M 23.5 0L 6.5 0C 2.916 0 0 2.916 0 6.5L 0 18.5C 0 22.084 2.916 25 6.5 25L 23.5 25C 27.084 25 30 22.084 30 18.5L 30 6.5C 30 2.916 27.084 0 23.5 0ZM 29 18.5C 29 21.532 26.532 24 23.5 24L 6.5 24C 3.468 24 1 21.532 1 18.5L 1 6.5C 1 3.468 3.468 1 6.5 1L 23.5 1C 26.532 1 29 3.468 29 6.5L 29 18.5Z"/>
+</defs>
+</svg>

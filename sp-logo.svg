@@ -1,6 +1,6 @@
 <svg width="123" height="27"  viewBox="0 0 123 27" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
-    #Fill-1, #Fill-2, #Fill-3, #Fill-4, #Fill-5, #Fill-6, #Fill-7, #Fill-8, #Fill-9, #Fill-10, #Fill-11, #Fill-12, #Fill-13,{
+    path{
     fill: rgba(255,255,255,.8);
     }
   </style>
